@@ -185,7 +185,7 @@ distinguish "new and slow to start" from "established and failing."
 
 ## Reproducibility
 
-- Repo: [FILL IN your repo URL]
+- Repo: (https://github.com/jahnzaibakhtar/Flyrank-ml-internship-starter)
 - Notebooks: `work/notebooks/w01_research_question.ipynb` through `w06_capstone.ipynb`
 - All aggregation and scoring logic uses `pandas`; random elements (none in this baseline-only
   version) would use `random_state=42` if a model is added later.
